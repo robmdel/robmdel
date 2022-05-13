@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name's Rob and I'm a CS Engineer :computer:
+
+- :cloud: Currently working in Industrial IoT
+- :clipboard: CS topics I'm highly interested in:
+    - Artificial Intelligence (Knowledge Representation and Reasoning, Semantic Technologies)
+    - Big Data Management/Computing/Analysis
+- :books: I love learning and sharing knowledge
+
 <!--
 **robmdel/robmdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
