@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Rob and I'm a CS Engineer :computer:
+I'm Rob and I'm a CS Engineer :computer:
 
 - :cloud: Currently working in Industrial IoT
 - :clipboard: CS topics I'm highly interested in:
